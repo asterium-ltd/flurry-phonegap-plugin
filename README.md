@@ -3,7 +3,7 @@ FlurryPlugin
 
 ## Usage
 
-    cordova plugin add https://github.com/jfpsf/flurry-phonegap-plugin.git
+    cordova plugin add https://github.com/asterium-ltd/flurry-phonegap-plugin.git
 
 
 ### Installation
